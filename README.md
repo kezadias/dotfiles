@@ -1,6 +1,6 @@
 # Dotfiles
 
-Repo where I keep all cross computer configurations, mostly only usefull for MacOS.
+Repo where I keep all cross computer configurations, mostly only useful for MacOS.
 
 Keyboard layout created by [Erwan Lemonnier](http://lemonnier.se/erwan/svorak.php)
 
